@@ -285,6 +285,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
@@ -320,6 +322,8 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 258
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -456,7 +460,7 @@ ScriptsOnlyBuild:
     className: GeneralCameraShake
   - hash:
       serializedVersion: 2
-      Hash: d3b4ca35c86e50594e65408219181a7e
+      Hash: 4a2626a68d49af42fa3e4cea76702880
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: main_selection_sort_script
@@ -756,7 +760,7 @@ ScriptsOnlyBuild:
     className: InputField
   - hash:
       serializedVersion: 2
-      Hash: d3b4ca35c86e50594e65408219181a7e
+      Hash: 4a2626a68d49af42fa3e4cea76702880
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: main_bubble_sort_script
@@ -978,7 +982,7 @@ ScriptsOnlyBuild:
     className: TMPro_InstructionOverlay
   - hash:
       serializedVersion: 2
-      Hash: d3b4ca35c86e50594e65408219181a7e
+      Hash: 4a2626a68d49af42fa3e4cea76702880
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: main_insertion_sort
@@ -1133,4 +1137,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/BUBBLE-SORT.unity
   - Assets/Scenes/INSERTION-SORT.unity
   - Assets/Scenes/information.unity
-  playerPath: C:/Users/abhis/OneDrive/Desktop/sorting_vis/webgl
+  playerPath: C:/Users/abhis/OneDrive/Desktop/sorting-vis-webgl
