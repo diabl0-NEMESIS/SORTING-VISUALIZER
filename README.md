@@ -6,7 +6,7 @@ the basic idea behind this visualizer is to see how the different sorting techni
 -------------------------------------------------------------------------
 to run the visualizer open "index.html"
 
-if the index.html is giving an error message like 
+if after running index.html your browser is giving an error message like 
 "browser does not support running Unity WebGL content from file:// urls"
 
 then follow these steps on firefox : 
