@@ -1,9 +1,11 @@
 SORTING-VISUALIZER is an application made using UNITY and using C# as the programming language.
 
-the basic idea behind this visualizer is to see how the different techniques are implemented.
+the basic idea behind this visualizer is to see how the different sorting techniques like INSERTION,BUBBLE AND SELECTION SORT are implemented.
 
 
 -------------------------------------------------------------------------
+to run the visualizer open "index.html"
+
 if the index.html is giving an error message like 
 "browser does not support running Unity WebGL content from file:// urls"
 
