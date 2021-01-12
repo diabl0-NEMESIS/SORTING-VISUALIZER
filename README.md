@@ -3,7 +3,7 @@ SORTING-VISUALIZER is an application made using UNITY and using C# as the progra
 the basic idea behind this visualizer is to see how the different sorting techniques like INSERTION,BUBBLE AND SELECTION SORT are implemented.
 
 
--------------------------------------------------------------------------
+----------------------IMPORTANT-------------------------------
 to run the visualizer open "index.html"
 
 if after running index.html your browser is giving an error message like 
@@ -15,3 +15,6 @@ then follow these steps on firefox :
    and change the predefined value to false.
 3. now run index.html again using firefox and it should run without      
     giving error message.   
+---------------------------------------------------------------
+
+![1](https://user-images.githubusercontent.com/55275135/104321092-2ba17400-5509-11eb-865f-0c68c6993db6.jpg)
